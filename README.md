@@ -39,7 +39,7 @@ curl --location 'localhost:8080/api/v1/users'
 * Создать образ
 
 ```
-docker build . --tag=proselyte/user-api:latest
+docker build . --tag=user-api:latest
 ```
 
 * Запустить контейнер
