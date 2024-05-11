@@ -75,5 +75,5 @@ curl --location 'localhost:9200/api/v1/users'
 
 ### Дополнительные ссылки
 
-* [GitHub repository](https://github.com/proselytear/usersapi)
+* [GitHub repository](https://github.com/proselytear/user-api)
 * [Proselyte Community TG](https://t.me/pse_club)
